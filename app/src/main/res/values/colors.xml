@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!--Theme1-->
+    <color name="color_toolbar1">#F62E2E</color>
+    <color name="color_bkg1">#FFFFFF</color>
+    <color name="color_btn_select1">#FB94B9</color>
+    <color name="color_btn_normal1">#FA87B0</color>
+    <color name="color_txt1">#000000</color>
+    <color name="colorPrimary1">#F46A6A</color>
+    <color name="colorPrimaryDark1">#AA4D4D</color>
+    <color name="colorAccent1">#FD7979</color>
+
+    <!--Theme2-->
+    <color name="color_toolbar2">#2E4FF6</color>
+    <color name="color_bkg2">#1C1C1C</color>
+    <color name="color_btn_select2">#94AEFB</color>
+    <color name="color_btn_normal2">#87BFFA</color>
+    <color name="color_txt2">#FFFFFF</color>
+    <color name="colorPrimary2">#6AC4F4</color>
+    <color name="colorPrimaryDark2">#4D6CAA</color>
+    <color name="colorAccent2">#799EFD</color>
+
+    <!--Theme3-->
+    <color name="color_toolbar3">#63F62E</color>
+    <color name="color_bkg3">#000000</color>
+    <color name="color_btn_select3">#46652B</color>
+    <color name="color_btn_normal3">#47983D</color>
+    <color name="color_txt3">#FFFFFF</color>
+    <color name="colorPrimary3">#7FF46A</color>
+    <color name="colorPrimaryDark3">#6EAA4D</color>
+    <color name="colorAccent3">#82FD79</color>
+
+
+</resources>

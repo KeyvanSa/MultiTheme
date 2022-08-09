@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ds">
+        <attr name="bkg" format="reference|color" />
+		<attr name="toolbar" format="reference|color" />
+        <attr name="btn_select" format="reference|color" />
+		<attr name="btn_normal" format="reference|color" />
+        <attr name="txt" format="reference|color" />
+    </declare-styleable>
+
+</resources>

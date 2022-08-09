@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme1" parent="Theme.AppCompat.Light.DarkActionBar">
+		
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+		
+        <item name="colorPrimary">@color/colorPrimary1</item>
+        <item name="colorPrimaryDark">@color/colorPrimary1</item>
+        <item name="colorAccent">@color/colorAccent1</item>
+        <item name="toolbar">@color/color_toolbar1</item>
+        <item name="bkg">@color/color_bkg1</item>
+        <item name="btn_select">@color/color_btn_select1</item>
+        <item name="btn_normal">@color/color_btn_normal1</item>
+        <item name="txt">@color/color_txt1</item>
+		
+    </style>
+
+    <style name="Theme2" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+
+        <item name="colorPrimary">@color/colorPrimary2</item>
+        <item name="colorPrimaryDark">@color/colorPrimary2</item>
+        <item name="colorAccent">@color/colorAccent2</item>
+        <item name="toolbar">@color/color_toolbar2</item>
+        <item name="bkg">@color/color_bkg2</item>
+        <item name="btn_select">@color/color_btn_select2</item>
+        <item name="btn_normal">@color/color_btn_normal2</item>
+        <item name="txt">@color/color_txt2</item>
+
+    </style>
+
+    <style name="Theme3" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+
+        <item name="colorPrimary">@color/colorPrimary3</item>
+        <item name="colorPrimaryDark">@color/colorPrimary3</item>
+        <item name="colorAccent">@color/colorAccent3</item>
+        <item name="toolbar">@color/color_toolbar3</item>
+        <item name="bkg">@color/color_bkg3</item>
+        <item name="btn_select">@color/color_btn_select3</item>
+        <item name="btn_normal">@color/color_btn_normal3</item>
+        <item name="txt">@color/color_txt3</item>
+
+    </style>
+	
+</resources>
